@@ -18,7 +18,7 @@
     "targetVersion": "0.0.0",
     "targetRelId": "",
     "targetUrl": "",
-    "targetId": "sample",
+    "targetId": "tubular",
     "simUrl": "/tubular/simulator.html",
     "simserviceworkerUrl": "/tubular/simulatorserviceworker.js",
     "simworkerconfigUrl": "/tubular/workerConfig.js",

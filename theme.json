@@ -349,8 +349,8 @@
         }
     ],
     "embedUrl": "https://laboratoryforplayfulcomputation.github.io/tubular/",
-    "id": "sample",
-    "title": "MakeCode Editor Sample",
-    "name": "sample",
+    "id": "tubular",
+    "title": "Tubular",
+    "name": "Tubular",
     "htmlDocIncludes": {}
 }

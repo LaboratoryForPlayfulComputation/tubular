@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "tubular",
+    "name": "Tubular",
+    "title": "Tubular",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
@@ -20,7 +20,7 @@
         "autoRun": true
     },
     "versions": {
-        "target": "2.0.2",
+        "target": "2.0.3",
         "pxt": "6.2.23"
     },
     "blocksprj": {

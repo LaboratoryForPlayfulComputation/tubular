@@ -54,13 +54,13 @@
    Menu
 --------------------*/
 
-@mainMenuBackground: @purple;
+@mainMenuBackground: #cf3535;
 @mainMenuInvertedBackground: @mainMenuBackground;
 @mainMenuTutorialBackground: @orange;
 
-@mainMenuBlocksJsToggleColor: @primaryColor;
+@mainMenuBlocksJsToggleColor: #cf3535;
 
-@tutorialSelectedMenuColor: @primaryColor;
+@tutorialSelectedMenuColor: #cf3535;
 
 /*-------------------
    Layout

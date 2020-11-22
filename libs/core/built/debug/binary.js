@@ -1,4 +1,4 @@
-// total=2771 new=24.03% cached=0.00% other=75.97%
+// total=2789 new=24.42% cached=0.00% other=75.58%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -56,7 +56,7 @@ const pxsim_pxtrt = pxsim.pxtrt;
 const pxsim_numops = pxsim.numops;
 
 
-function _main___P1(s) {
+function _main___P1806(s) {
 let r0 = s.r0, step = s.pc;
 s.pc = -1;
 
@@ -70,13 +70,13 @@ switch (step) {
     return leave(s, r0)
   default: oops()
 } } }
-_main___P1.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"ns.ts","functionName":"<main>","argumentNames":[]}
-_main___P1.continuations = [  ]
+_main___P1806.info = {"start":0,"length":0,"line":0,"column":0,"endLine":0,"endColumn":0,"fileName":"ns.ts","functionName":"<main>","argumentNames":[]}
+_main___P1806.continuations = [  ]
 
-function _main___P1_mk(s) {
+function _main___P1806_mk(s) {
     checkStack(s.depth);
     return {
-        parent: s, fn: _main___P1, depth: s.depth + 1,
+        parent: s, fn: _main___P1806, depth: s.depth + 1,
         pc: 0, retval: undefined, r0: undefined, overwrittenPC: false, lambdaArgs: null,
 } }
 
@@ -86,5 +86,5 @@ function _main___P1_mk(s) {
 
 const breakpoints = setupDebugger(1, [])
 
-return _main___P1
+return _main___P1806
 })

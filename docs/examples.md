@@ -4,16 +4,12 @@ Here are some fun programs for your board!
 
 ## Fun stuff
 
+
 ```codecard
 [{
-  "name": "Square",
-  "description": "Move in a square",
-  "url":"/examples/square",
-  "cardType": "example"
-}, {
-  "name": "Square 2",
-  "description": "TBD",
-  "url": "/examples/square2",
+  "name": "Play a video",
+  "description": "Basic program to play a video on startup.",
+  "url":"/examples/videoplay",
   "cardType": "example"
 }]
 ```

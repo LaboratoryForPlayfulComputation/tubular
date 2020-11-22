@@ -9,5 +9,5 @@
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

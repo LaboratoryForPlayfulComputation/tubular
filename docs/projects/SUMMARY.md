@@ -1,4 +1,4 @@
 # Projects
 
 * [Examples](/examples)
-  * [Play a video](/examples/videoplay.md)
+  * [Play a video](/examples/videoplay)
